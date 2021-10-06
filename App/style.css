@@ -1,0 +1,66 @@
+p {
+  font-size: 1.3em;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+section {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  float: right;
+  padding-right: 100px;
+  padding-top: 50px;
+  z-index: 5;
+  display: block;
+}
+#button {
+  font-size: 1.2em;
+  padding: 5px;
+  margin-right: 10px;
+  }
+
+#div1 {
+  display: flex;
+}
+
+option {
+text-align: center;
+}
+#menu-toggle {
+  background-color: #286090;
+  position: absolute;
+  z-index: 10000;
+  color: white;
+}
+.selected {
+background-color: #0d6efd;
+color: white !important;
+border-style: double;
+}
+
+
+#tables {
+  margin-right: 10px;
+}
+
+#divResultado {
+  display: flex;
+  width: 200px;
+  flex-wrap: nowrap;
+  float: right;
+}
+
+#apiResult {
+  display: flex;
+  font-size: 0.8em;
+  width: 300px;
+  float: right;
+}
+
+@media only screen and (min-width: 1900px) {
+  #apiResult {
+    width: 500px;
+  }
+}
+

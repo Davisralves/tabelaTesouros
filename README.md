@@ -4,5 +4,12 @@
 ![image](dndGif.gif)
 
 
+## Tecnologias utilizadas
+ -Javascript
+ -Html
+ -Css
+ -Bootstrap (somente css)
+
+
 ## Link
 [Link](https://davisralves.github.io/tabelaTesouros/App)

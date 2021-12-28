@@ -5,10 +5,10 @@
 
 
 ## Tecnologias utilizadas
- -Javascript
- -Html
- -Css
- -Bootstrap (somente css)
+ * Javascript
+ * Html
+ * Css
+ * Bootstrap (somente css)
 
 
 ## Link

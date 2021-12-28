@@ -9,9 +9,8 @@ section {
   top: 0px;
   right: 0px;
   float: right;
-  padding-right: 100px;
-  padding-top: 50px;
-  z-index: 5;
+  padding-right: 3em;
+  padding-top: 1em;
   display: block;
 }
 #button {

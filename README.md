@@ -5,4 +5,4 @@
 
 
 ## Link
-[Link](https://davisralves.github.io/tabelaTesouros/App/index.html)
+[Link](https://davisralves.github.io/tabelaTesouros/App)
